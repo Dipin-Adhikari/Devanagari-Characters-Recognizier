@@ -16,5 +16,6 @@ To write on blackboard you need to click the mouse button and move the mouse sim
 ![App Screenshot](outputs/4.png)
 ![App Screenshot](outputs/5.png)
 
-
+# Link to the dataset:
+https://www.kaggle.com/rishianand/devanagari-character-set
   
